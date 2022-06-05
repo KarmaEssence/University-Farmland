@@ -104,9 +104,9 @@ The roadmap can be read [here](ROADMAP.md).
 
 ## Third party libraries
 
-- [LWJGL](https://www.glfw.org/)  
+- [LWJGL](https://www.lwjgl.org/)  
   Gives access to other low level libraries (GLFW, OpenGL, OpenAL).
-- [GLFW](https://www.lwjgl.org/)  
+- [GLFW](https://www.glfw.org/)  
   Handles the window and the input.
 - [OpenGL](https://www.opengl.org/)  
   Creates the rendering context, and a way to communicate with the GPU.
@@ -117,10 +117,10 @@ The roadmap can be read [here](ROADMAP.md).
 
 ## Contributors
 
-- [LE CORRE Léo](https://gaufre.informatique.univ-paris-diderot.fr/lecorre)
-- [KINDEL Hugo](https://gaufre.informatique.univ-paris-diderot.fr/hugokindel)
+- [LE CORRE Léo](https://github.com/KarmaEssence)
+- [KINDEL Hugo](https://github.com/hugokindel)
 - [PAULAS VICTOR Francis](https://gaufre.informatique.univ-paris-diderot.fr/paulasvi)
-- [JAUROYON Maxime](https://gaufre.informatique.univ-paris-diderot.fr/jauroyon)
+- [JAUROYON Maxime](https://github.com/Maxime-Jauroyon)
 
 ## License
 
