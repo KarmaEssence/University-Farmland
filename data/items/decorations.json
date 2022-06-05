@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mountain",
+    "buyingValue" : 0,
+    "sellingValue" : 0,
+    "texture": "mountain.json",
+    "sprites" :[
+      "mountain1",
+      "mountain2"
+    ],
+    "initValue": 0,
+    "nameId": "mountain"
+  },
+  {
+    "id": "city",
+    "buyingValue" : 0,
+    "sellingValue" : 0,
+    "texture": "city.json",
+    "sprites" :[
+      "city1"
+    ],
+    "initValue": 0,
+    "nameId": "city"
+  }
+]

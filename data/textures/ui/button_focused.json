@@ -1,0 +1,59 @@
+{
+    "path": "ui/button_focused.png",
+    "sprites": {
+        "topLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "w": 5
+        },
+        "topMiddle": {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "w": 5
+        },
+        "topRight": {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "w": 5
+        },
+        "middleLeft": {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "w": 1
+        },
+        "middle": {
+            "x": 5,
+            "y": 5,
+            "z": 1,
+            "w": 1
+        },
+        "middleRight": {
+            "x": 6,
+            "y": 5,
+            "z": 5,
+            "w": 1
+        },
+        "bottomLeft": {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "w": 5
+        },
+        "bottomMiddle": {
+            "x": 5,
+            "y": 6,
+            "z": 1,
+            "w": 5
+        },
+        "bottomRight": {
+            "x": 6,
+            "y": 6,
+            "z": 5,
+            "w": 5
+        }
+    }
+}

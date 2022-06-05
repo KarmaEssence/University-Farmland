@@ -1,0 +1,25 @@
+# Project
+data/logs/
+data/settings.json
+data/server.json
+data/saves/
+imgui.ini
+*.log
+settings.json
+server.json
+logs
+
+# macOS
+.DS_Store
+
+# gradlew
+.gradle/
+output/
+
+# Java
+**/build/
+
+# JetBrains (IntelliJ)
+# Just ignore any IDE settings for now.
+# See: https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+**/.idea/
